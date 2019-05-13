@@ -6,7 +6,10 @@ Technologies Used
 Javascript
 nodeJS
 MySQL
+
 npm packages:
 mysql
 BodyParser
 method-override
+
+Used: JawsDB to host on heroku.
